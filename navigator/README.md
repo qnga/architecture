@@ -1,5 +1,5 @@
 ---
-layout: /layout-home/
+layout: home
 title: Readium navigator
 excerpt: Readium navigator page.
 permalink: /r2-test/
