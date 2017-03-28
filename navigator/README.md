@@ -1,3 +1,8 @@
+---
+layout: home
+title: Readium navigator
+excerpt: Readium navigator page.
+---
 **NOTE**: Further discussion of the various choices that must be made in any implementation of a navigator can be found in [Navigator Design Dilemmas](design-dilemmas.md).
 
 # Architecture for the Navigator Module
